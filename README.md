@@ -7,7 +7,6 @@
 
 ![Python](https://img.shields.io/badge/-python-fecf40?style=for-the-badge&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker)
-![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![NGINX](https://img.shields.io/badge/-NGINX-009900?style=for-the-badge&logo=nginx)
 ![grafana](https://img.shields.io/badge/-grafana-33333e?style=for-the-badge&logo=grafana)
 
@@ -27,10 +26,11 @@
 ![clickhouse](https://img.shields.io/badge/-clickhouse-f6f5f3?style=for-the-badge&logo=clickhouse)
 ![mysql](https://img.shields.io/badge/-mysql-117e97?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![sqlite](https://img.shields.io/badge/-sqlite-003c57?style=for-the-badge&logo=sqlite&logoColor=5ab4e5)
+
 ![redis](https://img.shields.io/badge/-redis-c33028?style=for-the-badge&logo=redis&logoColor=FFFFFF)
 ![mongodb](https://img.shields.io/badge/-mongodb-bbc8c4?style=for-the-badge&logo=mongodb)
-
 ![sqlalchemy](https://img.shields.io/badge/-sqlalchemy-8d8d8d?style=for-the-badge&logo=sqlalchemy&logoColor=cb253f)
+
 ![scrapy](https://img.shields.io/badge/-scrapy-d1d2d3?style=for-the-badge&logo=scrapy)
 ![selenium](https://img.shields.io/badge/-selenium-ffffff?style=for-the-badge&logo=selenium)
 
