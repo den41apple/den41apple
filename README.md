@@ -43,6 +43,7 @@
 
 ![pycharm](https://img.shields.io/badge/-pycharm-f2f256?style=for-the-badge&logo=pycharm&logoColor=1a1a1a)
 ![dbeaver](https://img.shields.io/badge/-dbeaver-897263?style=for-the-badge&logo=dbeaver&logoColor=362722)
+![visualstudiocode](https://img.shields.io/badge/-vscode-2c2c32?style=for-the-badge&logo=visualstudiocode&logoColor=23aaf2)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den41apple&layout=compact)
