@@ -6,6 +6,7 @@
 ### ⚡️ Мой стек:
 
 ![Python](https://img.shields.io/badge/-python-fecf40?style=for-the-badge&logo=Python)
+![GO](https://img.shields.io/badge/-Go-08677e?style=for-the-badge&logo=Go)
 ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker)
 ![NGINX](https://img.shields.io/badge/-NGINX-009900?style=for-the-badge&logo=nginx)
 ![grafana](https://img.shields.io/badge/-grafana-33333e?style=for-the-badge&logo=grafana)
@@ -42,6 +43,7 @@
 ![uml](https://img.shields.io/badge/-uml-ececec?style=for-the-badge&logo=uml&logoColor=952344)
 
 ![pycharm](https://img.shields.io/badge/-pycharm-f2f256?style=for-the-badge&logo=pycharm&logoColor=1a1a1a)
+![GOLand](https://img.shields.io/badge/-goland-1fbbb6?style=for-the-badge&logo=goland&logoColor=1a1a1a)
 ![dbeaver](https://img.shields.io/badge/-dbeaver-897263?style=for-the-badge&logo=dbeaver&logoColor=362722)
 ![visualstudiocode](https://img.shields.io/badge/-vscode-2c2c32?style=for-the-badge&logo=visualstudiocode&logoColor=23aaf2)
 
